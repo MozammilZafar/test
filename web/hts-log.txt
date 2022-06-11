@@ -1,0 +1,40 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 24 May 2019 16:08:25 at http://themazine.com/html/pinaz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://themazine.com/html/pinaz/ -O1 "C:\My Web Sites\finance1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:12:47	Warning: 	Retry after error -4 (No data (connection closed)) at link themazine.com/html/pinaz/vendor/jquery.2.2.3.min.js (from themazine.com/html/pinaz/)
+16:13:14	Warning: 	Retry after error -4 (No data (connection closed)) at link themazine.com/html/pinaz/fonts/font-awesome/fonts/fontawesome-webfont.woff2 (from themazine.com/html/pinaz/css/style.css)
+16:13:15	Warning: 	Retry after error -4 (No data (connection closed)) at link themazine.com/html/pinaz/images/team/7.jpg (from themazine.com/html/pinaz/team.html)
+16:13:15	Warning: 	Retry after error -4 (No data (connection closed)) at link themazine.com/html/pinaz/images/shop/6.jpg (from themazine.com/html/pinaz/shop.html)
+16:13:17	Warning: 	Retry after error -4 (No data (connection closed)) at link themazine.com/html/pinaz/images/project/15.jpg (from themazine.com/html/pinaz/project-v2.html)
+16:13:18	Warning: 	Retry after error -4 (No data (connection closed)) at link themazine.com/html/pinaz/images/blog/5.jpg (from themazine.com/html/pinaz/blog-list.html)
+16:13:26	Warning: 	Retry after error -4 (No data (connection closed)) at link themazine.com/html/pinaz/vendor/contact-form/validate.js (from themazine.com/html/pinaz/contact.html)
+16:13:26	Error: 	"Not Found" (404) at link themazine.com/html/pinaz/vendor/fonts/glyphicons-halflings-regular.eot (from themazine.com/html/pinaz/vendor/bootstrap/bootstrap.css)
+16:13:26	Error: 	"Not Found" (404) at link themazine.com/html/pinaz/vendor/fonts/glyphicons-halflings-regular.eot? (from themazine.com/html/pinaz/vendor/bootstrap/bootstrap.css)
+16:13:26	Error: 	"Not Found" (404) at link themazine.com/html/pinaz/vendor/fonts/glyphicons-halflings-regular.woff2 (from themazine.com/html/pinaz/vendor/bootstrap/bootstrap.css)
+16:13:26	Error: 	"Not Found" (404) at link themazine.com/html/pinaz/vendor/fonts/glyphicons-halflings-regular.woff (from themazine.com/html/pinaz/vendor/bootstrap/bootstrap.css)
+16:13:26	Error: 	"Not Found" (404) at link themazine.com/html/pinaz/vendor/fonts/glyphicons-halflings-regular.ttf (from themazine.com/html/pinaz/vendor/bootstrap/bootstrap.css)
+16:13:26	Error: 	"Not Found" (404) at link themazine.com/html/pinaz/vendor/fonts/glyphicons-halflings-regular.svg (from themazine.com/html/pinaz/vendor/bootstrap/bootstrap.css)
+16:13:26	Error: 	"Not Found" (404) at link themazine.com/html/pinaz/vendor/Camera-master/images/patterns/overlay1.png (from themazine.com/html/pinaz/vendor/Camera-master/css/camera.css)
+16:13:26	Error: 	"Not Found" (404) at link themazine.com/html/pinaz/vendor/Camera-master/images/patterns/overlay2.png (from themazine.com/html/pinaz/vendor/Camera-master/css/camera.css)
+16:13:26	Error: 	"Not Found" (404) at link themazine.com/html/pinaz/vendor/Camera-master/images/patterns/overlay3.png (from themazine.com/html/pinaz/vendor/Camera-master/css/camera.css)
+16:13:26	Warning: 	Retry after error -4 (No data (connection closed)) at link themazine.com/html/pinaz/vendor/Camera-master/images/patterns/overlay4.png (from themazine.com/html/pinaz/vendor/Camera-master/css/camera.css)
+16:13:27	Error: 	"Not Found" (404) at link themazine.com/html/pinaz/vendor/Camera-master/images/patterns/overlay5.png (from themazine.com/html/pinaz/vendor/Camera-master/css/camera.css)
+16:13:27	Error: 	"Not Found" (404) at link themazine.com/html/pinaz/vendor/Camera-master/images/patterns/overlay6.png (from themazine.com/html/pinaz/vendor/Camera-master/css/camera.css)
+16:13:27	Error: 	"Not Found" (404) at link themazine.com/html/pinaz/vendor/Camera-master/images/patterns/overlay7.png (from themazine.com/html/pinaz/vendor/Camera-master/css/camera.css)
+16:13:27	Error: 	"Not Found" (404) at link themazine.com/html/pinaz/vendor/Camera-master/images/patterns/overlay8.png (from themazine.com/html/pinaz/vendor/Camera-master/css/camera.css)
+16:13:27	Error: 	"Not Found" (404) at link themazine.com/html/pinaz/vendor/Camera-master/images/patterns/overlay9.png (from themazine.com/html/pinaz/vendor/Camera-master/css/camera.css)
+16:13:27	Error: 	"Not Found" (404) at link themazine.com/html/pinaz/vendor/Camera-master/images/patterns/overlay10.png (from themazine.com/html/pinaz/vendor/Camera-master/css/camera.css)
+16:13:27	Warning: 	Retry after error -4 (No data (connection closed)) at link themazine.com/html/pinaz/fonts/font-awesome/fonts/fontawesome-webfont.svg?v=4.6.1 (from themazine.com/html/pinaz/fonts/font-awesome/css/font-awesome.min.css)
+16:13:32	Warning: 	Retry after error -4 (No data (connection closed)) at link themazine.com/html/pinaz/vendor/owl-carousel/owl.video.play.png (from themazine.com/html/pinaz/vendor/owl-carousel/owl.carousel.css)
+16:13:33	Warning: 	Retry after error -4 (No data (connection closed)) at link themazine.com/html/pinaz/vendor/Camera-master/images/patterns/overlay4.png (from themazine.com/html/pinaz/vendor/Camera-master/css/camera.css)
+16:13:33	Warning: 	Retry after error -4 (No data (connection closed)) at link themazine.com/html/pinaz/vendor/owl-carousel/owl.video.play.png (from themazine.com/html/pinaz/vendor/owl-carousel/owl.carousel.css)
+16:13:34	Error: 	"Not Found" (404) at link themazine.com/html/pinaz/vendor/Camera-master/images/patterns/overlay4.png (from themazine.com/html/pinaz/vendor/Camera-master/css/camera.css)
+16:13:34	Error: 	"Not Found" (404) at link themazine.com/html/pinaz/vendor/owl-carousel/owl.video.play.png (from themazine.com/html/pinaz/vendor/owl-carousel/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 9 seconds : 174 links scanned, 144 files written (8944464 bytes overall) [8043545 bytes received at 26030 bytes/sec], 1286463 bytes transferred using HTTP compression in 65 files, ratio 26%, 6.2 requests per connection
+(17 errors, 12 warnings, 0 messages)
